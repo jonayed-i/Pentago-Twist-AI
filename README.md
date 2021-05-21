@@ -1,3 +1,6 @@
+
+
+
 # Pentago-Twist-AI
 
 ## An AI to Play Pentago-Twist
@@ -11,7 +14,7 @@
 
 
 ## Demo
-
+https://user-images.githubusercontent.com/71873900/119191826-2a4efd80-ba4d-11eb-9ab6-49aef94b420f.mp4
 
 ![alt text](https://github.com/jonayed-i/Pentago-Twist-AI/blob/main/pentago_twist-main/pentagoCapture.JPG "Logo Title Text 1")
 
