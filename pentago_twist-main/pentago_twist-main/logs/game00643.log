@@ -1,0 +1,22 @@
+# Server version 0.08 running on DESKTOP-7J5NBBK:8123
+# Game ID: 643
+# Board class: pentago_twist.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sun Apr 11 21:26:52 EDT 2021
+# Player 1: Player-0, 'RandomPlayer', running on kubernetes.docker.internal
+# Player 2: Player-1, '260930902', running on kubernetes.docker.internal
+START Player-0 RandomPlayer
+START Player-1 260930902
+5 0 0 0 0
+3 4 0 0 1
+4 3 0 0 0
+4 4 0 0 1
+2 2 3 1 0
+5 4 3 1 1
+4 1 0 0 0
+1 4 2 1 1
+5 0 3 1 0
+1 5 1 0 1
+GAMEOVER WINNER 1
+# Game ended: Sun Apr 11 21:26:54 EDT 2021

@@ -1,0 +1,13 @@
+# Server version 0.08 running on DESKTOP-7J5NBBK:8123
+# Game ID: 790
+# Board class: pentago_twist.PentagoBoard
+# Timeout: 20000
+# First Move Timeout: 30000
+# Date: Sun Apr 11 02:52:11 EDT 2021
+# Player 1: Player-0, '260930902', running on DESKTOP-7J5NBBK
+# Player 2: Player-1, '260930902', running on DESKTOP-7J5NBBK
+START Player-0 260930902
+START Player-1 260930902
+1 4 0 0 0
+GAMEOVER ILLEGAL MOVE: Player 1, Move: (1, 4), R/F: (0, 0) WINNER 0
+# Game ended: Sun Apr 11 02:52:11 EDT 2021
