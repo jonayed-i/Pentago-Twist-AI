@@ -12,6 +12,10 @@
 - Alpha-Beta pruning and adversarial search
 - Killer-Move Analysis
 
+## Results
+- Code has a 99.99% chance to beat a random agent. 
+- In a classroom tournament with over 400 agents created by other students, my AI was in the top 5% 
+
 
 ## Demo
 https://user-images.githubusercontent.com/71873900/119191826-2a4efd80-ba4d-11eb-9ab6-49aef94b420f.mp4
