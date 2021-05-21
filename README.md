@@ -14,7 +14,7 @@
 
 ## Results
 - Code has a 99.99% chance to beat a random agent. 
-- In a classroom tournament with over 400 agents created by other students, my AI was in the top 5% 
+- In a classroom tournament against over 400 agents created by other students, my AI was in the top 5% 
 
 
 ## Demo
