@@ -7,7 +7,7 @@
 
 ## Features
 
-- Complex Evaluation Model
+- Complex Heuristic Evaluation Model
 - Monte-Carlo Simulations to find best starting moves
 - Alpha-Beta pruning and adversarial search
 - Killer-Move Analysis
